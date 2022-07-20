@@ -133,5 +133,8 @@ public class Ejercicios {
 			sumaLFila+=matrizAle[matrizAle.length-1][i];
 		}
 		System.out.print("Suma de la ultima fila: "+sumaLFila);
+		int arreglo[]= new int[10];
+		int valor=arreglo[0];
+		System.out.println("este es valor"+valor);
 	}
 }
